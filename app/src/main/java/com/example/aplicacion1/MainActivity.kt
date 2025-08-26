@@ -3,6 +3,8 @@ package com.example.aplicacion1
 //Hola este es mi verificacion
 //cada commit a nuestro git tiene que ir explicado :D
 
+//MI NUMERO DE CONTROL ES 2213O804
+
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
