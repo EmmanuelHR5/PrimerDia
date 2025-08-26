@@ -4,6 +4,7 @@ package com.example.aplicacion1
 //cada commit a nuestro git tiene que ir explicado :D
 
 //MI NUMERO DE CONTROL ES 2213O804
+//desarrollo de aplicaciones android
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
